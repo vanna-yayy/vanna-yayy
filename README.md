@@ -1,11 +1,17 @@
 <h2 align="left">Hi 👋! Eu sou eu</h2>
 
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vanna-yayy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vanna-yayy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ###
 
 <br clear="both">
 
-<img align="right" height="150" src="https://media.giphy.com/media/hX3S2CkN91VIc/giphy.gif?cid=ecf05e47iqbz1trre2hsw0tc132qnd86uliu27t26lvp93dk&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTJ2MGU1M3NuOWhwaTVkdjQ1emE1M2Y0c2l4cHZraHgwcTY3aWl0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7Jrz5kRxqwR5S/giphy.gif"  />
 
 ###
 
@@ -32,7 +38,5 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/vanna-yayy/vanna-yayy/output/snake.svg" alt="Snake animation" />
-
-###
 
 ###
