@@ -1,5 +1,4 @@
 <h2 align="left">Hi 👋! Eu sou eu</h2>
-###
 
 <br clear="both">
 
